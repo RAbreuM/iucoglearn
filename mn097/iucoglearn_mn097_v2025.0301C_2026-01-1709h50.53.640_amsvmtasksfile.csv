@@ -1,0 +1,527 @@
+﻿list,language,choose_font,error_pid,error_age,error_space,gen_space_continue,ams_point,vm_look_1t,vm_point_1t,vm_look_2t,vm_point_2t,ams_nofeedback,vm1_correct,vm2_correct,vm1_incorrect,vm2_incorrect,ams_general_welcome,ams_confirm_info,ams_text_pid,ams_text_estimated_age,ams_text_age,ams_ams_vm,ams_vm_only,ams_intial_instructions,ams_taskInst,ams_end_ams,ams_text_3,ams_text_5,ams_text_7,ams_text_24,ams_text_8,ams_text_25,ams_text_23,ams_text_2,feedback_correct_blue,feedback_incorrect_neutral,feedback_correct_yellow,sample_file,visual_stimuli,age_group,block,correct,correct_shift,test_trials,numRatio,Num1,Num2,convex_hull,avg_ind_Dot_size,cum_Surf,cum_perim,sideLg,CH,CS1,CS2,CP,RR,LeftLarge,feedback_correct,feedback_incorrect,blank,n1,n2,Num_1,Num_2,ConvHull_1,ConvHull_2,TotSurf_1,TotSurf_2,ADBD_1,ADBD_2,AvDiameter_1,AvDiameter_2,TotContour_1,TotContour_2,ADfC_1,ADfC_2,TS_CH_1,TS_CH_2,isa_1,isa_2,threefeat,threefeat_num,block_displayed,fourfeat,mn_coretasks_language.thisRepN,mn_coretasks_language.thisTrialN,mn_coretasks_language.thisN,mn_coretasks_language.thisIndex,sample_loop.thisRepN,sample_loop.thisTrialN,sample_loop.thisN,sample_loop.thisIndex,sample_trial_loop.thisRepN,sample_trial_loop.thisTrialN,sample_trial_loop.thisN,sample_trial_loop.thisIndex,sample_trial.thisRepN,sample_trial.thisTrialN,sample_trial.thisN,sample_trial.thisIndex,practice_loop.thisRepN,practice_loop.thisTrialN,practice_loop.thisN,practice_loop.thisIndex,practice.thisRepN,practice.thisTrialN,practice.thisN,practice.thisIndex,block1.thisRepN,block1.thisTrialN,block1.thisN,block1.thisIndex,block2.thisRepN,block2.thisTrialN,block2.thisN,block2.thisIndex,age_years,age_months,,version,monitor_size,window_size,key_resp_32.keys,key_resp_32.rt,key_resp_35.keys,mouse_6.started,polygon.started,polygon_2.started,mouse_6.x,mouse_6.y,mouse_6.leftButton,mouse_6.midButton,mouse_6.rightButton,mouse_6.time,mouse_6.clicked_name,key_resp_5.keys,key_resp_5.rt,key_resp.started,fixation.started,text_35.started,key_resp.keys,key_resp.rt,image_a.started,response.started,image_b.started,image_a.stopped,choice_right1,response.keys,response.corr,response.rt,image_8.started,key_resp_31.started,text_29.started,key_resp_31.keys,key_resp_31.rt,key_resp_2.keys,key_resp_2.rt,image_5.started,key_resp_30.started,text_27.started,key_resp_30.keys,key_resp_30.rt,text_2.started,key_resp_9.started,key_resp_9.keys,key_resp_9.rt,image.started,key_resp_4.keys,key_resp_4.rt,key_resp_6.keys,key_resp_6.rt,ParticipantID,DayOfBirth,MonthOfBirth,YearOfBirth,AgeGroup,SiteID,Language,RemoveDOB,date,expName,psychopyVersion,frameRate,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",ams_task_sample_sheet2.xlsx,sample8_rect.png,all,sample,l,l,1,3.5,8,28,None,equated,None,None,right,0,1500,5250,0,1,0,"Yes, that is right! There are more yellow dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots",amstask_rectangles2.png,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,2,6,mn097,local,"[1024, 768]",[1920 1200],space,3365.0014915,None,0.055807199999890145,3406.0819779,3406.0819779,[-0.4033333333333333],[-0.0925],[1],[0],[0],[13.806692999999996],['polygon'],space,25.84099530000003,3445.8179044,3445.8179044,3445.8179044,space,5.818629200000032,3451.7036399,3451.9449759999998,3453.6532098,3453.7115515,0,s,0,7.001227099999596,3458.9957606,3458.9957606,3459.1615595,space,11.560825999999906,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",ams_task_sample_sheet2.xlsx,sample8_rect.png,all,sample,l,l,1,3.5,8,28,None,equated,None,None,right,0,1500,5250,0,1,0,"Yes, that is right! There are more yellow dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots",amstask_rectangles2.png,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3470.584527,3470.584527,3470.584527,space,3.4665608999998767,3474.0895935999997,3474.3610065999997,3476.0769829,3476.0936334999997,0,s,0,3.421237900000051,3477.8151166,3477.8151166,3477.9938881999997,space,10.287233100000321,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",ams_task_sample_sheet1.xlsx,sample7_rect.png,all,sample,a,s,1,4,5,20,None,equated,None,None,left,0,1500,6000,0,1,1,"Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots",amstask_rectangles2.png,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3488.1616086,3488.1616086,3488.1616086,space,0.9420466999999917,3489.1532921,3489.4268672,3491.1117787999997,3491.1613589,0,s,1,7.877486699999736,3497.3465595999996,3497.3465595999996,3497.528231,space,5.841351900000063,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Practice3_rect.png,all,practice,a,s,3,4,,,equated,0,0,equated,left,86502,0,0,1695,2,1,"Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.",amstask_rectangles2.png,12,48,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,,,,,,,,,,,,,0,0,0,0,0,0,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3508.5663995,3508.5663995,3508.5663995,space,1.7762026999998852,3510.4034893,3510.6443127999996,3512.3450878,3512.4122211,0,s,1,6.308837100000346,,,,,,space,5.229537700000037,3516.9985638,3516.9985638,3517.1767422,space,2.9091355999998996,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Practice5_rect.png,all,practice,a,s,5,3.5,,,0,0,equated,0,left,0,5721,5721,0,1,1,"Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.",amstask_rectangles2.png,12,42,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,,,,,,,,,,,,,0,0,0,0,0,1,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3519.9271006,3519.9271006,3519.9271006,space,2.5973660999998174,3522.5808408,3522.8290518,3524.5284153999996,3524.5951568,0,s,1,3.240914200000134,,,,,,,,3526.1139536,3526.1139536,3526.2943748,space,8.210781899999802,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Practice1_rect.png,all,practice,a,s,1,4,,,equated,equated,0,0,left,135847,3000,12000,0,1,1,"Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.",amstask_rectangles2.png,10,40,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,,,,,,,,,,,,,0,0,0,0,0,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3534.3441232,3534.3441232,3534.3441232,space,0.7824526999997943,3535.1830950999997,3535.4270309999997,3537.1280217,3537.1945576,0,s,1,13.8671532999997,,,,,,,,3549.3304869999997,3549.3304869999997,3549.5100601999998,space,3.1999933999995847,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Practice6_rect.png,all,practice,l,l,6,3.5,,,equated,0,0,equated,right,91673,0,0,1827,2,0,"Yes, that is right! There are more yellow dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.",amstask_rectangles2.png,14,49,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,,,,,,,,,,,,,0,0,0,0,0,3,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3552.5597911,3552.5597911,3552.5597911,space,2.717049599999882,3555.3277881,3555.5768654999997,3557.2772568,3557.3265486,0,s,0,3.7272233999997297,,,,,,,,3559.348854,3559.348854,3559.5099189,space,9.141291599999931,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Practice4_rect.png,all,practice,l,l,4,3.5,,,equated,equated,0,0,right,53856,3000,10500,0,1,0,"Yes, that is right! There are more yellow dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.",amstask_rectangles2.png,10,35,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,,,,,,,,,,,,,0,0,0,0,0,4,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3568.5096836,3568.5096836,3568.5096836,space,3.5149317999998857,3572.0946455,3572.3439544,3574.0278801,3574.0939583,0,s,0,7.271397200000138,,,,,,,,3579.6681725,3579.6681725,3579.8433614,space,11.245194499999798,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Practice2_rect.png,all,practice,l,l,2,4,,,0,0,equated,0,right,0,7399,7399,0,1,0,"Yes, that is right! There are more yellow dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.",amstask_rectangles2.png,11,44,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,,,,,,,,,,,,,0,0,0,0,0,5,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3590.9428628,3590.9428628,3590.9428628,space,0.6589693999999326,3591.6860975,3591.9110530999997,3593.6272532999997,3593.6943831999997,0,s,0,5.654945000000225,,,,,,,,3597.6130599999997,3597.6130599999997,3597.7934378,space,12.742642900000192,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Practice5_rect.png,all,practice,a,s,5,3.5,,,0,0,equated,0,left,0,5721,5721,0,1,1,"Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.",amstask_rectangles2.png,12,42,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,,,,,,,,,,,,,1,0,1,0,0,0,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3623.6855855999997,3623.6855855999997,3623.6855855999997,space,2.1361864000000423,3625.8612129999997,3626.1463393999998,3627.8428215999998,3627.8758967999997,0,s,1,12.565773799999988,,,,,,,,3638.7596971,3638.7596971,3638.9258173,space,2.9376044999999067,3610.3928622,3610.3928622,space,13.2670963999999,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Practice4_rect.png,all,practice,l,l,4,3.5,,,equated,equated,0,0,right,53856,3000,10500,0,1,0,"Yes, that is right! There are more yellow dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.",amstask_rectangles2.png,10,35,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,,,,,,,,,,,,,1,0,1,0,0,1,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3641.7251373999998,3641.7251373999998,3641.7251373999998,space,3.5252534999999625,3645.292477,3645.5599023,3647.2592247,3647.293492,0,s,0,14.70401959999981,,,,,,,,3660.3144236,3660.3144236,3660.4916584,space,21.93574340000032,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Practice3_rect.png,all,practice,a,s,3,4,,,equated,0,0,equated,left,86502,0,0,1695,2,1,"Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.",amstask_rectangles2.png,12,48,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,,,,,,,,,,,,,1,0,1,0,0,2,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3682.2744144,3682.2744144,3682.2744144,space,1.0092257000001155,3683.3267045,3683.5916595,3685.2928140999998,3685.3351638,0,s,1,29.444870900000296,,,,,,,,3713.0838197999997,3713.0838197999997,3713.2734828999996,space,3.9999899000004007,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Practice6_rect.png,all,practice,l,l,6,3.5,,,equated,0,0,equated,right,91673,0,0,1827,2,0,"Yes, that is right! There are more yellow dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.",amstask_rectangles2.png,14,49,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,,,,,,,,,,,,,1,0,1,0,0,3,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3717.1074214,3717.1074214,3717.1074214,space,3.367845700000089,3720.5309322999997,3720.7918253,3722.4926173,3722.5426054,0,s,0,17.75832199999968,,,,,,,,3738.6064535,3738.6064535,3738.7736639,space,8.130872100000033,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Practice2_rect.png,all,practice,l,l,2,4,,,0,0,equated,0,right,0,7399,7399,0,1,0,"Yes, that is right! There are more yellow dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.",amstask_rectangles2.png,11,44,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,,,,,,,,,,,,,1,0,1,0,0,4,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3746.7565331,3746.7565331,3746.7565331,space,0.6943214999996599,3747.4913551,3747.7586262,3749.4579206999997,3749.5080244,1,l,1,34.32130150000012,,,,,,,,3782.1283304,3782.1283304,3782.3062249,space,5.462989900000139,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Practice1_rect.png,all,practice,a,s,1,4,,,equated,equated,0,0,left,135847,3000,12000,0,1,1,"Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.",amstask_rectangles2.png,10,40,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,,,,,,,,,,,,,1,0,1,0,0,5,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3787.6229743999997,3787.6229743999997,3787.6229743999997,space,2.5745858000000226,3790.2414737,3790.5078017,3792.2074511,3792.2576292999997,0,s,1,13.224976400000287,,,,,,,,3803.7782853,3803.7782853,3803.9396374999997,space,3.0017476000002716,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test20_rect.png,3,,a,s,20,3,,,equated,0,equated,0,left,83470,8890,8890,0,1,1,,,,13,39,39,13,83464,83497,8890,8890,27,51,17,29,2061,1186,103,110,0.10651,0.10647,226.980069221863,660.519855417254,0_equated_0,2,b2,2_equated,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,3819.6343059,3819.6343059,3819.6343059,space,4.204236800000217,3823.8956725,3824.1555301,3825.8565427,3825.9068088,0,s,1,50.02853830000004,,,,,,,,,,,,,,,None,,3806.8597757999996,space,12.699384099999861,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test39_rect.png,3,,l,l,39,2.5,,,0,0,0,equated,right,0,0,0,1931,2,0,,,,14,35,14,35,187000,194000,21696,8705,72,45,44,18,1931,1931,181,171,0.11624,0.044812,1520.53084433746,254.469004940773,0_0_equated,1,b2,10.0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,1,1,11,,,,,,,,,,,,,,,,,,,,,,,,,,3874.205161,3874.205161,3874.205161,space,1.053591900000356,3875.3430459,3875.5886979999996,3877.2897266,3877.3559274,1,l,1,2.1349325999999564,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test30_rect.png,3,,a,s,30,1.5,,,0,0,equated,0,left,0,4357,4357,0,1,1,,,,14,21,21,14,162000,132000,4357,4357,71,78,16,20,1062,867,179,164,0.026833,0.033121,201.061929829747,314.159265358979,0_equated_0,2,b2,20.0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,3877.7551109999995,3877.7551109999995,3877.7551109999995,space,0.4967506000002686,3878.3226669999995,3878.5562638,3880.2563384999994,3880.3228889,1,l,0,26.575326099999984,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test37_rect.png,3,,l,l,37,2.5,,,equated,0,0,equated,right,47812,0,0,1688,2,0,,,,10,25,10,25,47827,47821,23422,9368,21,23,54,21,1688,1688,61,79,0.48972,0.1959,2290.22104446696,346.360590058275,0_0_equated,1,b2,1_equated,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,3,3,14,,,,,,,,,,,,,,,,,,,,,,,,,,3905.1540147999995,3905.1540147999995,3905.1540147999995,space,1.0020666999998866,3906.2417999,3906.4893581999995,3908.1722210999997,3908.255859,0,s,0,4.221531000000141,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test5_rect.png,3,,a,s,5,2.5,,,equated,equated,0,0,left,79018,3000,7500,0,1,1,,,,10,25,25,10,79037,78988,7500,3000,41,84,19,19,1519,610,109,122,0.094892,0.03798,283.528736986479,283.528736986479,equated_0_0,3,b2,3_equated,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,4,4,12,,,,,,,,,,,,,,,,,,,,,,,,,,3910.7371671,3910.7371671,3910.7371671,space,2.240921300000082,3913.0508475999995,3913.2881664999995,3914.9891989999996,3915.0554842,1,l,0,44.14637380000022,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test46_rect.png,3,,a,s,46,1.5,,,equated,0,0,equated,left,47850,0,0,1751,2,1,,,,14,21,21,14,47864,47844,12016,17875,22,20,27,40,1751,1751,73,71,0.25104,0.37361,572.55526111674,1256.63706143592,0_0_equated,1,b2,1_equated,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,5,5,13,,,,,,,,,,,,,,,,,,,,,,,,,,3957.4535077,3957.4535077,3957.4535077,space,1.6362988000000769,3959.1705217999997,3959.4056604999996,,,1,l,0,1.064055400000143,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test14_rect.png,3,,l,l,14,1.5,,,equated,equated,0,0,right,112939,4200,6300,0,1,0,,,,14,21,14,21,113000,113000,4200,6300,79,58,19,19,850,1281,150,127,0.037204,0.055806,283.528736986479,283.528736986479,equated_0_0,3,b2,3_equated,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,3960.4865987000003,3960.4865987000003,3960.4865987000003,space,1.9698204999995141,3962.5345196999997,3962.7713532,3964.4713205,3964.5382887999995,1,l,1,103.87282210000012,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test16_rect.png,3,,l,l,16,1.5,,,0,equated,0,0,right,0,7800,11700,0,1,0,,,,26,39,26,39,183000,186000,7800,11700,64,44,19,19,1580,2365,178,179,0.042629,0.06296,283.528736986479,283.528736986479,equated_0_0,3,b2,30.0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,7,7,15,,,,,,,,,,,,,,,,,,,,,,,,,,4066.6683897000003,4066.6683897000003,4066.6683897000003,space,0.6770348999998532,4067.4169348999994,4067.6533042,4069.3529160999997,,0,s,0,1.6791223999998692,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test17_rect.png,3,,l,l,17,3,,,0,0,equated,0,right,0,4142,4142,0,1,0,,,,10,30,10,30,166000,186000,4142,4142,130,63,23,13,711,1237,182,175,0.024997,0.022221,415.47562843725,132.732289614169,0_equated_0,2,b2,20.0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,8,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,4069.3529160999997,4069.3529160999997,4069.3529160999997,space,0.5294960000001083,4069.9379278999995,4070.1864704,4071.8867168999996,4071.9527937000003,0,s,0,2.3862192999995386,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test44_rect.png,3,,a,s,44,2,,,0,0,0,equated,left,0,0,0,1838,2,1,,,,20,40,40,20,218000,182000,6897,13732,51,61,15,29,1838,1838,206,186,0.031639,0.075294,176.714586764426,660.519855417254,0_0_equated,1,b2,10.0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,9,9,9,,,,,,,,,,,,,,,,,,,,,,,,,,4072.6011990999996,4072.6011990999996,4072.6011990999996,space,0.7321214000003238,4073.4118767,4073.6526988999995,4075.3368265,4075.4203099999995,1,l,0,1.780780600000071,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test22_rect.png,3,,a,s,22,2.5,,,0,0,equated,0,left,0,8133,8133,0,1,1,,,,12,30,30,12,183000,156000,8133,8133,61,101,18,29,1730,1092,159,164,0.044509,0.052118,254.469004940773,660.519855417254,0_equated_0,2,b2,20.0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,10,10,3,,,,,,,,,,,,,,,,,,,,,,,,,,4075.4519812,4075.4519812,4075.4519812,space,0.32620610000049055,4075.8494713,4076.1036557999996,,,0,s,1,1.4547411000003194,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test28_rect.png,3,,a,s,28,2,,,equated,0,equated,0,left,156224,3723,3723,0,1,1,,,,20,40,40,20,156000,156000,3723,3723,50,71,11,15,1352,957,163,164,0.02382,0.023836,95.0331777710912,176.714586764426,0_equated_0,2,b2,2_equated,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,11,11,5,,,,,,,,,,,,,,,,,,,,,,,,,,4077.5858620999998,4077.5858620999998,4077.5858620999998,space,0.3903637000003073,4078.0548429,4078.286217,,,1,l,0,1.419813499999691,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test2_rect.png,3,,l,l,2,3,,,equated,equated,0,0,right,74800,3300,9900,0,1,0,,,,11,33,11,33,74828,74793,3300,9900,65,28,19,19,668,2007,118,100,0.044101,0.13237,283.528736986479,283.528736986479,equated_0_0,3,b2,3_equated,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,12,12,10,,,,,,,,,,,,,,,,,,,,,,,,,,4079.7347177,4079.7347177,4079.7347177,space,1.0687520999999833,4080.8796119999997,4081.1199756999995,,,1,l,1,1.6118907000000036,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test36_rect.png,3,,a,s,36,3,,,0,0,0,equated,left,0,0,0,1835,2,1,,,,13,39,39,13,204000,203000,7136,21253,48,82,15,45,1835,1835,173,197,0.035031,0.10469,176.714586764426,1590.43128087983,0_0_equated,1,b2,10.0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,13,13,7,,,,,,,,,,,,,,,,,,,,,,,,,,4082.7511095,4082.7511095,4082.7511095,space,0.8851543000000675,4083.7151971000003,4083.9535891999994,4085.6532375999996,4085.7184915999997,1,l,0,1.8787696999997934,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test25_rect.png,3,,l,l,25,2,,,0,0,equated,0,right,0,4145,4145,0,1,0,,,,10,20,10,20,191000,177000,4145,4145,144,74,23,16,710,1007,216,180,0.021743,0.023379,415.47562843725,201.061929829747,0_equated_0,2,b2,20.0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,14,14,2,,,,,,,,,,,,,,,,,,,,,,,,,,4085.8513679,4085.8513679,4085.8513679,space,0.42901159999928495,4086.3473910000002,4086.5863441,,,0,s,0,1.5914436000002752,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test10_rect.png,3,,l,l,10,2,,,equated,equated,0,0,right,92908,3900,7800,0,1,0,,,,13,26,13,26,92872,92879,3900,7800,64,40,19,19,789,1578,136,116,0.041993,0.08398,283.528736986479,283.528736986479,equated_0_0,3,b2,3_equated,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,15,15,8,,,,,,,,,,,,,,,,,,,,,,,,,,4088.2012168,4088.2012168,4088.2012168,space,0.5092545999996219,4088.7723071,4089.0194006,4090.7192749999995,4090.7870636,1,l,1,2.1721121000000494,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test8_rect.png,3,,l,l,8,2.5,,,0,equated,0,0,right,0,4800,12000,0,1,0,,,,16,40,16,40,180000,196000,4800,12000,89,45,19,19,967,2421,179,176,0.026727,0.061347,283.528736986479,283.528736986479,equated_0_0,3,b1,30.0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,14,,,,,,,,,,,,,,,,,,,,,,4095.4523723,4095.4523723,4095.4523723,space,0.4482222999995429,4095.9590803,4096.2031818,4097.9028088,4097.9695192,1,l,1,2.1172710999999254,,,,,,,,,,,,,,,,,,,,space,4.1035852000004525,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test3_rect.png,3,,a,s,3,3,,,0,equated,0,0,left,0,3600,10800,0,1,1,,,,12,36,36,12,199000,141000,10800,3600,53,97,19,19,2187,734,185,177,0.054346,0.025618,283.528736986479,283.528736986479,equated_0_0,3,b1,30.0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,10,,,,,,,,,,,,,,,,,,,,,,4098.3353672,4098.3353672,4098.3353672,space,0.3265181999995548,4098.7224948,4098.9698369,,,0,s,1,1.3942010000000664,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test19_rect.png,3,,l,l,19,3,,,equated,0,equated,0,right,146656,5764,5764,0,1,0,,,,12,36,12,36,147000,147000,5764,5764,85,50,25,14,927,1593,184,148,0.039283,0.039307,490.873852123405,153.9380400259,0_equated_0,2,b1,2_equated,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,0,2,2,2,,,,,,,,,,,,,,,,,,,,,,4100.3843762999995,4100.3843762999995,4100.3843762999995,space,1.6345542999997633,4102.1048156,4102.3363579,,,1,l,1,1.531917400000566,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+0,english,Arial,The ParticipantID box is empty.,The age based on date of birth and age group do not match.,Press spacebar and re-enter the information.,Please press spacebar.,Point to the side that has more dots.,Look at this picture.,Point to the picture you just saw.,Look at these pictures.,Point to the pictures you just saw.,"Now we are going to do some more, but I won’t tell you if you are right or wrong.",That’s correct. That’s the picture you saw.,That’s right. These are the pictures you saw.,"Uh oh, this is the picture you saw.","Uh oh, these are the pictures you saw.","Welcome!
+Please confirm the following information.",Press the spacebar if this information is correct. Or press Esc if there are any errors.,Your participant ID is: ,The child's age based on the date of birth you entered is: ,The child's age group you entered is: ,"AMS Task + 
+Visual Memory Task","Visual Memory Task 
+Only",Choose 'AMS Task + Visual Memory Task' if it is the first time the child will complete the tasks. Choose 'Visual Memory Task' if that's the only task that the child is missing.,"You are going to see some blue dots and some yellow dots.
+ Your job is to tell me which color has more dots.
+You can point to which side had more dots, or just say “blue” or “yellow”.
+
+Experimenter: press the  “S” key for blue and the "L" key for yellow. Ready?","Great job!
+Press 'q' to continue.",Welcome!,"I am going to show you some pictures. Then, you will point to the pictures you just saw.
+Ready?","Remember!
+Point to the picture you just saw.",Ready?,"Now, we are going to see more pictures.
+Let's practice!","Remember!
+Point to the pictures you just saw.",Thank you!,"Remember!
+Your job is to tell me which color has more dots.
+You can point to the which side had more dots, or just say “blue” or “yellow”. ","Yes, that is right! There are more blue dots.","Uh oh, that is not right! Look, no matter how spread out these dots are or how big they are, this side has more dots.","Yes, that is right! There are more yellow dots.",,Age3_test35_rect.png,3,,l,l,35,3,,,0,0,0,equated,right,0,0,0,1999,2,0,,,,12,36,12,36,204000,192000,27086,9094,77,49,53,18,1999,1999,174,184,0.13266,0.047275,2206.18344098343,254.469004940773,0_0_equated,1,b1,10.0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,0,3,3,8,,,,,,,,,,,,,,,,,,,,,,4103.885026,4103.885026,4103.885026,space,0.7128085000003921,4104.6672616999995,4104.9022491999995,4106.6028056,4106.6694907,0,s,0,2.5393362000004345,,,,,,,,,,,,,,,,,,,,,,mn097,29,6,2023,3 or younger,iucoglearn,English,no,2026-01-17_09h50.55.420,manynumbers_ams_visualmemory_v2025.0301D,2022.2.5,60.027684768216176,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4107.4675674,4107.4675674,4107.4675674,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
